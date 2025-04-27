@@ -27,17 +27,17 @@
 ![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ---
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaman-mishra&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish6667&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 ---
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaman-mishra&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish6667&theme=radical" />
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iaman-mishra&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish6667&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iaman-mishra&theme=radical&utcOffset=5" />
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=iaman-mishra&theme=radical&row=1&column=7)](https://github.com/iaman-mishra)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ashish6667&theme=radical&row=1&column=7)](https://github.com/ashish6667)
 
   <div align="center">
 
@@ -53,8 +53,8 @@
     <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
       <strong style="color:white;">High School</strong><br><br>
       <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
-      <img src="https://img.shields.io/badge/School-+2 HIGH SCHOOL BHABUA-0d1117?style=flat-square&color=orange"><br>
-      <img src="https://img.shields.io/badge/Year-2019_–_2021-0d1117?style=flat-square&color=green">
+      <img src="https://img.shields.io/badge/School-+2 VPSM High School-0d1117?style=flat-square&color=orange"><br>
+      <img src="https://img.shields.io/badge/Year-2018_–_2019-0d1117?style=flat-square&color=green">
     </td>
   </tr>
 </table>
@@ -63,8 +63,6 @@
 
 ## 🌐 Online Presence
 
-- 🔗 [*Portfolio Website](https://your-website.com) *(Showcase of my best work)  
-- 💼 [*LinkedIn*](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [*Twitter (X)*](https://x.com/amantiwari2357)  
-- 💻 [*GitHub*](https://github.com/digiindia2025)  
-- 📬 [*Email Me*](mailto:amankumartiwari5255@gmail.com)
+- 💼 [*LinkedIn*]www.linkedin.com/in/im-ashish-yadav)    
+- 💻 [*GitHub*](https://github.com/ashish6667)  
+- 📬 [*Email Me*](mailto:ay1060045@gmail.com)
