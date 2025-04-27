@@ -27,15 +27,15 @@
 ![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ---
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish6667&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish6667&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish6667&theme=radical" />
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish6667&theme=radical" />
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish6667&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish6667&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish6667&layout=compact&theme=radical)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iaman-mishra&theme=radical&utcOffset=5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashish6667&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashish6667&theme=radical&utcOffset=5" />
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=ashish6667&theme=radical&row=1&column=7)](https://github.com/ashish6667)
 
