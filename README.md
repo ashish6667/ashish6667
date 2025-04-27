@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; text-align: center;">
 
-<img src="https://www.canva.com/design/DAGlz4t_IT8/hGf_oAIu5iOAY-pHZqymdQ/edit?utm_content=DAGlz4t_IT8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFabTZWcDXUAA/profile-displaybackgroundimage-shrink_350_1400/B4EZZ2TzT5HYAY-/0/1745741625846?e=1751500800&v=beta&t=bHCLsM_sczAe2qKjy_Xwy3MR1I2ROWjOiXhbJF2DW-8"/>
 
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
 </h1>
