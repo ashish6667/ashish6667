@@ -65,4 +65,4 @@
 
 - 💼 [*LinkedIn*]www.linkedin.com/in/im-ashish-yadav)    
 - 💻 [*GitHub*](https://github.com/ashish6667)  
-- 📬 [*Email Me*](mailto:ay1060045@gmail.com)
+- 📬 [*Email Me*](mailto:ashishay030747@gmail.com)
